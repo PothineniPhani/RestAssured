@@ -3,7 +3,6 @@ package getRequest;
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
-
 import org.json.simple.JSONObject;
 
 public class Test_Put {

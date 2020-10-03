@@ -1,0 +1,15 @@
+
+Create own API for Testing.
+
+1.Install nodeJs on windows/Linux
+2.Create Json Server ==>
+      in CMD ->npm install -g json-server
+
+3.Please check this server is running good or not by using this url : http://localhost:3000
+
+4.please check DB.Json file in Local system.
+
+5.User/db.json ==>Open and edit your own data.
+
+
+          
